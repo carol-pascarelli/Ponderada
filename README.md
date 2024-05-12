@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<sub>Figura 1 - Logo do grupo</sub>
+<sub>Figura 1 - Banco de dados completo</sub>
 <img src="/assets/DB.png" width="100%" >
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 </div>
@@ -14,7 +14,7 @@
 
 **Tutor**
 <div align="center">
-<sub>Figura 1 - Logo do grupo</sub>
+<sub>Figura 2 - Tutor</sub>
 <img src="assets\Tut.png" width="100%" >
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 </div>
@@ -24,7 +24,7 @@
 
 **Jogador**
 <div align="center">
-<sub>Figura 1 - Logo do grupo</sub>
+<sub>Figura 3 - Jogador</sub>
 <img src="assets\Pend.png" width="100%" >
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 </div>
@@ -34,7 +34,7 @@
 
 **Medidor de felicidade**
 <div align="center">
-<sub>Figura 1 - Logo do grupo</sub>
+<sub>Figura 4 - Medidor de felicidade</sub>
 <img src="assets\Med.png" width="100%" >
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 </div>
@@ -44,7 +44,7 @@
 
 **Questionário**
 <div align="center">
-<sub>Figura 1 - Logo do grupo</sub>
+<sub>Figura 5 - Questionários</sub>
 <img src="assets\Quest.png" width="100%" >
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 </div>
